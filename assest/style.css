@@ -42,7 +42,7 @@ a:hover {
 }
 
 .navbar-default {
-    background-color: #4aaaa5;
+    background-color: blue;
     border-color: #e7e7e7;
 }
 
@@ -69,7 +69,7 @@ a:hover {
 	font-size: 1.7em;
 	font-weight: bold;
 	padding: 15px 0px 0px 15px;
-	color: #4aaaa5;
+	color: blue;
 }
 
 #connect hr {
@@ -88,7 +88,7 @@ a:hover {
     text-align: center;
     line-height: 70px;
     color: #fff;
-    border-top: 2px solid #4aaaa5;
+    border-top: 2px solid blue;
 }
 
 
@@ -104,7 +104,7 @@ a:hover {
 	font-size: 1.7em;
 	font-weight: bold;
 	padding: 15px 0px 0px 15px;
-	color: #4aaaa5;
+	color: blue;
 }
 
 #about hr {
@@ -144,7 +144,7 @@ ul {
 	font-size: 1.7em;
 	font-weight: bold;
 	padding: 0px 0px 0px 15px;
-	color: #4aaaa5;
+	color: blue;
 }
 
 #portfolio hr {
@@ -166,7 +166,7 @@ ul {
 
 .portLabel {
 	color: #fff;
-	background-color: #4aaaa5;
+	background-color: blue;
 	line-height: 40px;
 	text-align: center;
 	position: relative;
@@ -187,7 +187,7 @@ ul {
 	font-size: 1.7em;
 	font-weight: bold;
 	padding: 15px 0px 0px 15px;
-	color: #4aaaa5;
+	color: blue;
 }
 
 #contact hr {
@@ -246,7 +246,7 @@ ul {
 	color: #fff;
 	width: 70px;
  	height: 30px;
- 	background: #4aaaa5;
+ 	background: blue;
  	border: none;
  	margin-top: 5px;
  	border-radius: 2px;
@@ -255,7 +255,7 @@ ul {
 
 #submit:hover {
 	cursor: pointer;
-	background-color: #3a8783;
+	background-color: blue;
 }
 
 /* RESPONSIVE */
